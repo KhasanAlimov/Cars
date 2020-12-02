@@ -16,6 +16,9 @@
 	cursor: pointer;
 	color: teal;
 }
+.logo-title {
+	color: #da5757;
+}
 .quantity-block {
 	display: flex;
 	width: max-content;
