@@ -1,0 +1,40 @@
+.shoping-container {
+	position: fixed;
+	top: 0;
+	width: 50%;
+	background-color: #FFFFFF;
+	height: 100%;
+	box-shadow: 0 0 5px 2px #ACACAC;
+	z-index: 150;
+}
+.shoping-container table {
+	width: 95%;
+	margin: 10px auto;
+	counter-reset: schetchik;
+}
+.shoping-container table, th, td {
+	border-bottom: solid 1px #d2d2d2;
+	border-collapse: collapse;
+	padding: 10px 15px;
+}
+.name-td {
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    width: 60%;
+    color: #881a06;
+}
+.price-td {
+    font-size: 14px;
+    color: #808080;
+}
+.shoping-container th {
+	text-align: left;
+	color: #545454;
+}
+.fa-times {
+	float: right;
+	margin: 15px 20px 0 0;
+    font-size: 23px;
+    cursor: pointer;
+}

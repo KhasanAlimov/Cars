@@ -1,0 +1,86 @@
+[
+	{
+		"id": "el1",
+		"name": "Opel Insignia Diesel Automatic",
+		"img": "https://www.global-rent-a-car.com/fileadmin/_processed_/9/5/csm_FDAR_FDAD_Opel_Insignia_white_right_4d585a15a7.png",
+		"price": 7000
+	},
+	{
+		"id": "el2",
+		"name": "RENAULT MEGANE SEDAN",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/SDMR_SDAR_Renault_Megane_white_right.PNG",
+		"price": 5000
+	},
+	{
+		"id": "el3",
+		"name": "NISSAN QASHQAI DIESEL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/FFMD_FFAD_Nissan_Qashqai_2019_white_right.PNG",
+		"price": 10500
+	},
+	{
+		"id": "el4",
+		"name": "FIAT DOBLO PANORAMA DIESEL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/CVMD_Fiat_Doblo_2019_white_right.PNG",
+		"price": 4300
+	},
+	{
+		"id": "el5",
+		"name": "MERCEDES VITO DIESEL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/PVMD_Mercedes_Vito_2019_black_right.PNG",
+		"price": 32900
+	},{
+		"id": "el6",
+		"name": "DACIA DUSTER DIESEL AUTOMATIC",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/IFMD_IFAD_Dacia_Duster_2019_brown_right.PNG",
+		"price": 8000
+	},
+	{
+		"id": "el7",
+		"name": "FORD TOURNEO CUSTOM DIESEL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/FVMD_Ford_Tourneo_Custom_2019_white_right.PNG",
+		"price": 7800
+	},
+	{
+		"id": "el8",
+		"name": "DACIA LODGY DIESEL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/IVMD_Dacia_Lodgy_2019_white_right.PNG",
+		"price": 3900
+	},
+	{
+		"id": "el9",
+		"name": "TOYOTA COROLLA DIESEL AUTOMATIC",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/IDAD_IDMD_Toyota_Corolla_2019_white_right.png",
+		"price": 15700
+	},
+	{
+		"id": "el10",
+		"name": "HYUNDAI ACCENT BLUE DIESEL AUTOMATIC",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/CDMD_CDAD_Hyundai_Accent_Blue_2019_white_right.PNG",
+		"price": 10000
+	},
+	{
+		"id": "el11",
+		"name": "HYUNDAI I10 AUTOMATIC",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/MDMR_MDAR_Hyundai_i10_2019_black_right.PNG",
+		"price": 4400
+	},
+	{
+		"id": "el12",
+		"name": "MERCEDES CLA CLASS AUTOMATIC",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/PDAR_Mercedes_CLA180_2019_white_right.PNG",
+		"price": 20000
+	},
+	{
+		"id": "el13",
+		"name": "HYUNDAI I20 AUTOMATIC'",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/EDMR_EDAR_Hyundai_I20_2019_white.PNG",
+		"price": 5800
+	},
+	{
+		"id": "el14",
+		"name": "RENAULT SYMBOL",
+		"img": "https://www.global-rent-a-car.com/fileadmin/user_upload/global-rent-a-car.com/images/Fahrzeuge_Global-Rent-a-Car/CDMR_Renault_Symbol_2019_grey_right.png",
+		"price": 7000
+	}
+
+]

@@ -1,0 +1,9 @@
+.error-img-container {
+  width: 100%;
+  height: 100vh;
+  background-color: #103858;
+}
+.error-img {
+  width: inherit;
+  object-fit: cover;
+}
