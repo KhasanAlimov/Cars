@@ -6,6 +6,7 @@
 	height: 100%;
 	box-shadow: 0 0 5px 2px #ACACAC;
 	z-index: 150;
+	overflow: auto;
 }
 .shoping-container table {
 	width: 95%;
