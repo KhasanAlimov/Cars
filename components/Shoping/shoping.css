@@ -39,3 +39,8 @@
     font-size: 23px;
     cursor: pointer;
 }
+@media (max-width: 740px) {
+	.shoping-container {
+		width: 100%;
+	}
+}
